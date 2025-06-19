@@ -2,13 +2,13 @@
   "name": "learn-project",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://eslam-cmd.github.io/E-Learing/",
+  "homepage": "https://eslam-cmd.github.io/E-Learning/",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist",
     "preview": "vite preview"
   },
   "dependencies": {
